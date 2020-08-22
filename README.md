@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=maxenceblanc" alt="maxenceblanc" /> 
-  <img src="https://img.shields.io/badge/status-awesome-%23ff8c00?style=flat-square&logo=appveyor" />
+  <img src="https://img.shields.io/badge/status-awesome-%23ff8c00?style=for-the-badge" />
 </p>
 <!---
 <img src="" />
