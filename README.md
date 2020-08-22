@@ -50,8 +50,7 @@
 <br />
 <br />
 
----
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxenceblanc&show_icons=true&hide=prs,issues&count_private=true&theme=radical" alt="maxenceblanc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxenceblanc&show_icons=true&hide=prs,issues&count_private=true&title_color=#ff008c" alt="maxenceblanc" /></p>
 
 
