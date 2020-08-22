@@ -8,6 +8,7 @@
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/status-awesome-%23ff8c00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/currently%20in-france-%23009dff?style=for-the-badge" />
 </p>
 
 
