@@ -48,6 +48,11 @@
 </p>
 
 <br />
+
+### Extras:
+
+:heavy_check_mark: Get my synthwave style theme for VSCode [here](https://marketplace.visualstudio.com/items?itemName=maxenceblanc.sia-synthwave&ssr=false#overview)!
+
 <br />
 
 
