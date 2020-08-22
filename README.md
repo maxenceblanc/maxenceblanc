@@ -2,9 +2,15 @@
 <h3 align="center"> Hi there, I'm Max :fire: </h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=maxenceblanc" alt="maxenceblanc" /> 
   <img src="https://img.shields.io/badge/status-awesome-%23ff8c00?style=for-the-badge" />
 </p>
+
+
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=maxenceblanc" alt="maxenceblanc" /> 
+</p>
+
+
 <!---
 <img src="" />
 -->
