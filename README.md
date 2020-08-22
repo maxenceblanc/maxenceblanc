@@ -1,7 +1,14 @@
 
 <h3 align="center"> Hi there, I'm Max :fire: </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxenceblanc" alt="maxenceblanc" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=maxenceblanc" alt="maxenceblanc" /> 
+  <img src="https://img.shields.io/badge/status-awesome-%23ff8c00" />
+</p>
+<!---
+<img src="" />
+-->
+
 
 ## I'm a Software Engineer student!
 
