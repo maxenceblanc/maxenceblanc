@@ -1,4 +1,9 @@
 
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=maxenceblanc" alt="maxenceblanc" /> 
+</p>
+
 <h3 align="center"> Hi there, I'm Max :fire: </h3>
 
 <p align="left"> 
@@ -6,9 +11,6 @@
 </p>
 
 
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=maxenceblanc" alt="maxenceblanc" /> 
-</p>
 
 
 <!---
